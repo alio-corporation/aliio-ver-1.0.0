@@ -1,5 +1,5 @@
-#include "c:\users\bossman\desktop\alio\Filewriter.h"
-#include "c:\users\bossman\desktop\alio\Fileopener.h"
+#include "Filewriter.h"
+#include "Fileopener.h"
 #include <iostream>
 #include <conio.h>
 #include <string>
